@@ -1,1 +1,2 @@
 This repository serves as a progress tracker for the Codecademy course I'm currently completing. The repository is organized into folders and files that reflect the lessons, projects, and exercises I've completed as I advance through the course.
+The repository is structured to mirror the course modules and lessons, with each or bracket representing a specific project or test. These projects are designed to apply and solidify the knowledge gained in each part of the course.
