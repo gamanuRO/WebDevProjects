@@ -1,1 +1,1 @@
-# WebDevProjects
+This repository serves as a progress tracker for the Codecademy course I'm currently completing. The repository is organized into folders and files that reflect the lessons, projects, and exercises I've completed as I advance through the course.
